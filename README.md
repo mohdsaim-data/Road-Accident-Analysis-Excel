@@ -21,9 +21,9 @@ Transport departments and road safety authorities struggle to pinpoint high-risk
 * **Lighting & Surface Conditions:** Over **305,404 casualties (73.1%)** occurred during daylight, while dry road surfaces represented the major share at **276,437 casualties (66.2%)** compared to wet or icy/snowy conditions.
 
 ## Repository Structure
-* [Accident_Report_Dashboard.xlsx](Accident_Report_Dashboard.xlsx): Main Excel workbook containing raw datasets, PivotTables, and the interactive dashboard.
-* [Accident_Report_Dataset_zip.zip](Accident_Report_Dataset_zip.zip): Compressed archive containing dataset backups and workbook copies.
-* [Dashboard_Preview.png](assets/Dashboard_Preview.png): High-resolution preview image of the report dashboard.
+* [Accident_Report_Dashboard.xlsx](Accident_Report_Dashboard.xlsx): Main Excel workbook containing PivotTables, and the interactive dashboard.
+* [Accident_Report_Dataset_zip.zip](Accident_Report_Dataset_zip.zip): Compressed archive containing dataset.
+* [Dashboard_Preview](assets/Dashboard_Preview.png): High-resolution preview image of the report dashboard.
 
 ## Tools & Technologies Used
 * **Microsoft Excel:** PivotTables, PivotCharts, DAX/Excel Formulas, and Slicers.
