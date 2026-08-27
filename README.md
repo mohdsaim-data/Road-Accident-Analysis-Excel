@@ -23,7 +23,7 @@ Transport departments and road safety authorities struggle to pinpoint high-risk
 ## Repository Structure
 * [Accident_Report_Dashboard.xlsx](Accident_Report_Dashboard.xlsx): Main Excel workbook containing PivotTables, and the interactive dashboard.
 * [Accident_Report_Dataset_zip.zip](Accident_Report_Dataset_zip.zip): Compressed archive containing dataset.
-* [Dashboard_Preview](assets/Dashboard_Preview.png): High-resolution preview image of the report dashboard.
+* [Dashboard_Preview.png](Dashboard_Preview.png): High-resolution preview image of the report dashboard.
 
 ## Tools & Technologies Used
 * **Microsoft Excel:** PivotTables, PivotCharts, DAX/Excel Formulas, and Slicers.
