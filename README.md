@@ -2,6 +2,8 @@
 
 ## Project Overview
 This interactive Excel dashboard analyzes road accident data across key environmental, geographic, and vehicle dimensions. It unifies complex casualty and traffic safety metrics into a single executive dashboard powered by Excel PivotTables, slicers, and dynamic charts to support data-driven decision-making for public safety and urban planning.
+[Uploading Accident_Report_Dashboard.xlsx…]()
+<img width="1075" height="542" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/a4804ae3-97e8-42a7-8d9d-08a3d95bbd8b" />
 
 ## Business Problem Solved
 Transport departments and road safety authorities struggle to pinpoint high-risk factors causing severe casualties across different infrastructure settings. This dashboard addresses these challenges by providing:
